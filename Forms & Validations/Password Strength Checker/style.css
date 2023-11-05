@@ -3,7 +3,8 @@ body {
     font-family: 'PT Sans', sans-serif;
 }
 .container{
-    background: url(./girish-dalvi-fX_0lydHnWM-unsplash.jpg);
+    background: url(./Backgraound-Images.png);
+    background-position:center;
 }
 h1{
     margin: 15px 0 25px;
