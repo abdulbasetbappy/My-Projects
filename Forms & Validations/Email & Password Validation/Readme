@@ -1,9 +1,9 @@
-//Boxicons
+//Boxicons - for Icons
 Link: "https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css"
 
 //Google Fonts - Poppins
 Link: "https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap"
 
-//Validations
+//Validations -For Email & Password
 Email_Pattern = /^[^ ]+@[^ ]+\.[a-z]{2,3}$/;
 Password_Pattern = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$/;
